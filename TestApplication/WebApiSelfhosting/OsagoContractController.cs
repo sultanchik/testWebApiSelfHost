@@ -16,11 +16,24 @@ namespace WebApiSelfhosting
             return StatusCode(HttpStatusCode.Accepted);
         }
 
-        
+
         [Route("api/OsagoContracts({guid})/K3.Annul")]
         public IHttpActionResult Post(string guid)
         {
-            return StatusCode(HttpStatusCode.Accepted);
+            if (string.IsNullOrWhiteSpace(guid))
+                return StatusCode(HttpStatusCode.NotFound);
+
+            var lastSymbol = guid[guid.Length - 1];
+
+            int number;
+            if (int.TryParse(lastSymbol.ToString(), out number))
+            {
+                return StatusCode(HttpStatusCode.BadRequest);
+            }
+            else
+            {
+                return StatusCode(HttpStatusCode.Accepted);
+            }
         }
     }
 }
