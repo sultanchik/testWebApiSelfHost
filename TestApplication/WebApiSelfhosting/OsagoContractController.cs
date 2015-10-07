@@ -17,13 +17,15 @@ namespace WebApiSelfhosting
         }
 
 
-        [Route("api/OsagoContracts({guid})/K3.Annul")]
-        public IHttpActionResult Post(string guid)
+        [Route("api/OsagoContracts({guid:guid})/K3.Annul")]
+        public IHttpActionResult Post(Guid guid)
         {
-            if (string.IsNullOrWhiteSpace(guid))
+            if (guid.Equals(Guid.Empty))
                 return StatusCode(HttpStatusCode.NotFound);
-
-            var lastSymbol = guid[guid.Length - 1];
+            
+            var guidString = guid.ToString();
+            
+            var lastSymbol = guidString[guidString.Length - 1];
 
             int number;
             if (int.TryParse(lastSymbol.ToString(), out number))
@@ -33,7 +35,7 @@ namespace WebApiSelfhosting
             else
             {
                 return StatusCode(HttpStatusCode.Accepted);
+            }
         }
     }
-}
 }
