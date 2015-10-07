@@ -1,0 +1,45 @@
+c:\users\vyunev\documents\visual studio 2012\Projects\WebApiSelfhosting\WebApiSelfhosting\bin\Debug\WebApiSelfhosting.exe.config
+c:\users\vyunev\documents\visual studio 2012\Projects\WebApiSelfhosting\WebApiSelfhosting\bin\Debug\WebApiSelfhosting.exe
+c:\users\vyunev\documents\visual studio 2012\Projects\WebApiSelfhosting\WebApiSelfhosting\bin\Debug\WebApiSelfhosting.pdb
+c:\users\vyunev\documents\visual studio 2012\Projects\WebApiSelfhosting\WebApiSelfhosting\bin\Debug\Newtonsoft.Json.dll
+c:\users\vyunev\documents\visual studio 2012\Projects\WebApiSelfhosting\WebApiSelfhosting\bin\Debug\System.Net.Http.dll
+c:\users\vyunev\documents\visual studio 2012\Projects\WebApiSelfhosting\WebApiSelfhosting\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\vyunev\documents\visual studio 2012\Projects\WebApiSelfhosting\WebApiSelfhosting\bin\Debug\System.Net.Http.WebRequest.dll
+c:\users\vyunev\documents\visual studio 2012\Projects\WebApiSelfhosting\WebApiSelfhosting\bin\Debug\System.Web.Http.dll
+c:\users\vyunev\documents\visual studio 2012\Projects\WebApiSelfhosting\WebApiSelfhosting\bin\Debug\System.Web.Http.SelfHost.dll
+c:\users\vyunev\documents\visual studio 2012\Projects\WebApiSelfhosting\WebApiSelfhosting\bin\Debug\System.Web.Http.WebHost.dll
+c:\users\vyunev\documents\visual studio 2012\Projects\WebApiSelfhosting\WebApiSelfhosting\bin\Debug\Newtonsoft.Json.xml
+c:\users\vyunev\documents\visual studio 2012\Projects\WebApiSelfhosting\WebApiSelfhosting\bin\Debug\System.Net.Http.xml
+c:\users\vyunev\documents\visual studio 2012\Projects\WebApiSelfhosting\WebApiSelfhosting\bin\Debug\System.Net.Http.Formatting.xml
+c:\users\vyunev\documents\visual studio 2012\Projects\WebApiSelfhosting\WebApiSelfhosting\bin\Debug\System.Net.Http.WebRequest.xml
+c:\users\vyunev\documents\visual studio 2012\Projects\WebApiSelfhosting\WebApiSelfhosting\bin\Debug\System.Web.Http.xml
+c:\users\vyunev\documents\visual studio 2012\Projects\WebApiSelfhosting\WebApiSelfhosting\bin\Debug\System.Web.Http.SelfHost.xml
+c:\users\vyunev\documents\visual studio 2012\Projects\WebApiSelfhosting\WebApiSelfhosting\bin\Debug\System.Web.Http.WebHost.xml
+c:\users\vyunev\documents\visual studio 2012\Projects\WebApiSelfhosting\WebApiSelfhosting\obj\Debug\WebApiSelfhosting.exe
+c:\users\vyunev\documents\visual studio 2012\Projects\WebApiSelfhosting\WebApiSelfhosting\obj\Debug\WebApiSelfhosting.pdb
+C:\Users\vyunev\documents\visual studio 2012\Projects\WebApiSelfhosting\WebApiSelfhosting\bin\Debug\log4net.dll
+C:\Users\vyunev\documents\visual studio 2012\Projects\WebApiSelfhosting\WebApiSelfhosting\bin\Debug\Topshelf.dll
+C:\Users\vyunev\documents\visual studio 2012\Projects\WebApiSelfhosting\WebApiSelfhosting\bin\Debug\log4net.xml
+C:\Users\vyunev\documents\visual studio 2012\Projects\WebApiSelfhosting\WebApiSelfhosting\bin\Debug\Topshelf.pdb
+C:\Users\vyunev\documents\visual studio 2012\Projects\WebApiSelfhosting\WebApiSelfhosting\bin\Debug\Topshelf.xml
+D:\Примеры\WebApiSelfhosting\WebApiSelfhosting\WebApiSelfhosting\bin\Debug\WebApiSelfhosting.exe.config
+D:\Примеры\WebApiSelfhosting\WebApiSelfhosting\WebApiSelfhosting\obj\Debug\WebApiSelfhosting.exe
+D:\Примеры\WebApiSelfhosting\WebApiSelfhosting\WebApiSelfhosting\obj\Debug\WebApiSelfhosting.pdb
+D:\Примеры\WebApiSelfhosting\WebApiSelfhosting\WebApiSelfhosting\bin\Debug\WebApiSelfhosting.exe
+D:\Примеры\WebApiSelfhosting\WebApiSelfhosting\WebApiSelfhosting\bin\Debug\WebApiSelfhosting.pdb
+D:\Примеры\WebApiSelfhosting\WebApiSelfhosting\WebApiSelfhosting\bin\Debug\log4net.dll
+D:\Примеры\WebApiSelfhosting\WebApiSelfhosting\WebApiSelfhosting\bin\Debug\Newtonsoft.Json.dll
+D:\Примеры\WebApiSelfhosting\WebApiSelfhosting\WebApiSelfhosting\bin\Debug\System.Net.Http.Formatting.dll
+D:\Примеры\WebApiSelfhosting\WebApiSelfhosting\WebApiSelfhosting\bin\Debug\System.Web.Http.dll
+D:\Примеры\WebApiSelfhosting\WebApiSelfhosting\WebApiSelfhosting\bin\Debug\System.Web.Http.SelfHost.dll
+D:\Примеры\WebApiSelfhosting\WebApiSelfhosting\WebApiSelfhosting\bin\Debug\System.Web.Http.WebHost.dll
+D:\Примеры\WebApiSelfhosting\WebApiSelfhosting\WebApiSelfhosting\bin\Debug\Topshelf.dll
+D:\Примеры\WebApiSelfhosting\WebApiSelfhosting\WebApiSelfhosting\bin\Debug\log4net.xml
+D:\Примеры\WebApiSelfhosting\WebApiSelfhosting\WebApiSelfhosting\bin\Debug\Newtonsoft.Json.xml
+D:\Примеры\WebApiSelfhosting\WebApiSelfhosting\WebApiSelfhosting\bin\Debug\System.Net.Http.Formatting.xml
+D:\Примеры\WebApiSelfhosting\WebApiSelfhosting\WebApiSelfhosting\bin\Debug\System.Web.Http.xml
+D:\Примеры\WebApiSelfhosting\WebApiSelfhosting\WebApiSelfhosting\bin\Debug\System.Web.Http.SelfHost.xml
+D:\Примеры\WebApiSelfhosting\WebApiSelfhosting\WebApiSelfhosting\bin\Debug\System.Web.Http.WebHost.xml
+D:\Примеры\WebApiSelfhosting\WebApiSelfhosting\WebApiSelfhosting\bin\Debug\Topshelf.pdb
+D:\Примеры\WebApiSelfhosting\WebApiSelfhosting\WebApiSelfhosting\bin\Debug\Topshelf.xml
+D:\Примеры\WebApiSelfhosting\WebApiSelfhosting\WebApiSelfhosting\obj\Debug\WebApiSelfhosting.csprojResolveAssemblyReference.cache
