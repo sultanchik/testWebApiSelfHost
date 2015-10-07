@@ -12,11 +12,14 @@ namespace WebApiSelfhosting
         {
             var selfHostConfiguraiton = new HttpSelfHostConfiguration("http://localhost:5555");
 
+            selfHostConfiguraiton.MapHttpAttributeRoutes();
+            
             selfHostConfiguraiton.Routes.MapHttpRoute(
                 name: "DefaultApiRoute",
                 routeTemplate: "api/{controller}",
                 defaults: null
                 );
+            
 
             server = new HttpSelfHostServer(selfHostConfiguraiton);
         }
