@@ -19,3 +19,17 @@ D:\Примеры\TestApplication\TestApplication\WebApiSelfhosting\bin\Debug\Sy
 D:\Примеры\TestApplication\TestApplication\WebApiSelfhosting\bin\Debug\Topshelf.pdb
 D:\Примеры\TestApplication\TestApplication\WebApiSelfhosting\bin\Debug\Topshelf.xml
 D:\Примеры\TestApplication\TestApplication\WebApiSelfhosting\obj\Debug\TestApplication.csprojResolveAssemblyReference.cache
+C:\Users\remezovis\Documents\testWebApiSelfHost\TestApplication\WebApiSelfhosting\bin\Debug\WebApiSelfhosting.exe.config
+C:\Users\remezovis\Documents\testWebApiSelfHost\TestApplication\WebApiSelfhosting\obj\Debug\WebApiSelfhosting.exe
+C:\Users\remezovis\Documents\testWebApiSelfHost\TestApplication\WebApiSelfhosting\obj\Debug\WebApiSelfhosting.pdb
+C:\Users\remezovis\Documents\testWebApiSelfHost\TestApplication\WebApiSelfhosting\bin\Debug\WebApiSelfhosting.exe
+C:\Users\remezovis\Documents\testWebApiSelfHost\TestApplication\WebApiSelfhosting\bin\Debug\WebApiSelfhosting.pdb
+C:\Users\remezovis\Documents\testWebApiSelfHost\TestApplication\WebApiSelfhosting\bin\Debug\Newtonsoft.Json.dll
+C:\Users\remezovis\Documents\testWebApiSelfHost\TestApplication\WebApiSelfhosting\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\remezovis\Documents\testWebApiSelfHost\TestApplication\WebApiSelfhosting\bin\Debug\System.Web.Http.dll
+C:\Users\remezovis\Documents\testWebApiSelfHost\TestApplication\WebApiSelfhosting\bin\Debug\System.Web.Http.SelfHost.dll
+C:\Users\remezovis\Documents\testWebApiSelfHost\TestApplication\WebApiSelfhosting\bin\Debug\Newtonsoft.Json.xml
+C:\Users\remezovis\Documents\testWebApiSelfHost\TestApplication\WebApiSelfhosting\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\remezovis\Documents\testWebApiSelfHost\TestApplication\WebApiSelfhosting\bin\Debug\System.Web.Http.xml
+C:\Users\remezovis\Documents\testWebApiSelfHost\TestApplication\WebApiSelfhosting\bin\Debug\System.Web.Http.SelfHost.xml
+C:\Users\remezovis\Documents\testWebApiSelfHost\TestApplication\WebApiSelfhosting\obj\Debug\TestApplication.csprojResolveAssemblyReference.cache

@@ -4,7 +4,7 @@ using System.Web.Http.SelfHost;
 
 namespace WebApiSelfhosting
 {
-    class Service
+    public class Service
     {
         private readonly HttpSelfHostServer server;
 
