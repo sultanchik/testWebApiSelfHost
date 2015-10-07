@@ -18,6 +18,14 @@ namespace WebApiSelfhosting
                 defaults: null
                 );
 
+            selfHostConfiguraiton.Routes.MapHttpRoute(
+                name: "ApiRouteWithAction",
+                routeTemplate: "api/{controller}/{action}",
+                defaults: null
+                );
+
+            
+
             server = new HttpSelfHostServer(selfHostConfiguraiton);
         }
 

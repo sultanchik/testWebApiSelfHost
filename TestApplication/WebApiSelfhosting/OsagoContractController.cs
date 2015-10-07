@@ -13,5 +13,29 @@ namespace WebApiSelfhosting
         {
             return StatusCode(HttpStatusCode.Accepted);
         }
+
+        [HttpPost]
+        //[Route("OsagoContracts({guid})/Annul")]
+        public IHttpActionResult Annul(string guid)
+        {
+            //if(model.Guid.Equals(Guid.Empty))
+            //    return StatusCode(HttpStatusCode.Forbidden);
+
+            //var lastSymbol = model.Guid.ToString()[model.Guid.ToString().Length - 1];
+            if (string.IsNullOrWhiteSpace(guid))
+                return StatusCode(HttpStatusCode.Forbidden);
+
+            var lastSymbol = guid[guid.Length - 1];
+
+            int number;
+            if (int.TryParse(lastSymbol.ToString(), out number))
+            {
+                return StatusCode(HttpStatusCode.Forbidden);
+            }
+            else
+            {
+                return StatusCode(HttpStatusCode.Accepted);
+            }
+        }
     }
 }
