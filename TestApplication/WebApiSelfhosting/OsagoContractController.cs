@@ -33,7 +33,7 @@ namespace WebApiSelfhosting
             else
             {
                 return StatusCode(HttpStatusCode.Accepted);
-            }
         }
     }
+}
 }
